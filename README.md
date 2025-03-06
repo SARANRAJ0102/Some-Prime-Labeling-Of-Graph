@@ -8,4 +8,4 @@
 
     In Dretsky.T have proved that the Cn on n vertices is a prime graph. In Lee.S have proved that the wheel Wn is a prime graph if and only if n is even. In Vaidya.k have proved the prime labeling for some cycle related graphs.
 
-     In this project, we study some prime labeling of graph.
+    In this project, we study some prime labeling of graph.
